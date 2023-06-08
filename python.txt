@@ -9,3 +9,7 @@ def sum(a, b)
 #나누기함수
 def div(a, b)
    return a / b
+
+#곱셈함수
+def mul(a, b)
+   return a * b
